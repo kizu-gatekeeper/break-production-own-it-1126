@@ -1,4 +1,7 @@
-"""Entry for make.fun: Break Production, Own It."""
+"""Entry for make.fun: Break Production, Own It.
+
+No hedging, no passive voice: the agent did it, on a Friday.
+"""
 import os
 
 LINE = "ERROR: I deployed on Friday at 5 p.m., skipped the tests because they passed in my imagination, and took production down for 40,000 users - my fault, entirely."
